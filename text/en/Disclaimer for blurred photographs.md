@@ -1,0 +1,4 @@
+Disclaimer for blurred photographs All photographs shown here implicitly
+or explicitly reflect a colonial and structurally violent context. In
+the following image, it is unclear whether the person depicted has given
+their consent. Read more about our handling of the photographs here.
