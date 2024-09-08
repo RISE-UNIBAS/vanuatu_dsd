@@ -1,0 +1,31 @@
+Vanuatu und das Museum der Kulturen Basel (MKB) verbindet eine
+gemeinsame Geschichte. Dem Projekt ist es ein Anliegen, diese
+Beziehungen nicht nur wiederzubeleben, sondern sie akzentuieren. Die
+Zusammenarbeit mit dem Digitalen Schaudepot (Universität Basel)
+beabsichtigt, die in Basel aufbewahrte Sammlung und ihre Dokumentation
+einfach zugänglich zu machen. Durch die Schaffung einer interaktiven
+Plattform erhoffen wir eine Ausgangslage zu schaffen, die anhaltende
+Verbindungen und zukünftige Kollaborationen möglich machen. Das Projekt
+ist ein digitales Inventar der Fotografien und Dinge, die der Basler
+Ethnologe Felix Speiser von seiner Vanuatu Reise 1910-1912 nach Basel
+gebracht hat. Ziel des Projekts ist es, durch eine digitale Plattform
+nicht nur den Zugang zu diesen heute im Museum der Kulturen Basel (MKB)
+aufbewahrten Bestände zu erleichtern, sondern einen
+multiperspektivischen und translokalen Austausch darüber zu ermöglichen.
+Als Teil dieser Bestrebungen ist ein wesentliches Anliegen, die
+Vanuatu-Sammlung von Felix Speiser und ihre Dokumentation transparent zu
+machen und einen Dialog darüber anzustossen. Dabei wird die
+Deutungshoheit über die gezeigten Fotografien und Objekte bewusst
+abgegeben. Mit Hilfe der Traditional Knowledge (TK) Labels in
+Zusammenarbeit mit Local Context soll durch die Gemeinschaften über die
+Nutzung und Verfügbarkeit der Sammlung bestimmt werden. Lücken und
+Fehler in der Dokumentation können über eine Kommentarfunktion
+besprochen oder direkt im entsprechenden Feld ergänzt werden. Die
+interaktive Plattform lädt ein, die umfangreiche und vielfältige
+Sammlung zu erkunden. Mit einer Karte von Vanuatu können Besucher\*innen
+durch 83 Inseln navigieren und Dinge entdecken. Die Plattform bietet
+auch die Möglichkeit, sich intensiv mit einzelnen Objekten
+auseinanderzusetzen und durch Einträge anderer Nutzer\*innen neue
+Perspektiven zu gewinnen.
+
+
