@@ -1,17 +1,0 @@
-Zwischen 4. Mai 1910 und 1. Juli 1912 sammelte Felix Speiser über 3\'000
-ethnografische Objekte und machte rund 1\'500 Glasplattenfotografien.
-Aus der Zeit sind Feldtagebücher und Notizhefte erhalten geblieben. Als
-Resultat seiner Reise erschienen zahlreiche Publikationen. Speiser blieb
-in seiner Zeit in Vanuatu nie länger als drei Wochen an einem Ort und
-hielt sich mehrheitlich in Missions- und Handelsstationen auf. Speiser
-bediente sich bei seinen Forschungen neben dem Sammeln auch weiteren
-zeitgenössischen wissenschaftlichen Praktiken wie die Durchführung von
-anthropologischen Messungen, anthropometrischen Fotografien und der
-Aneignung von menschlichen Überresten. Durch die Präsenz von
-Missionar\*innen, Kolonialbeamt\*innen, Plantagenbesitzer\*innen und
-einheimischen Guides, die ihm als Informant\*innen dienten, gelang es
-ihm nicht, das Vertrauen von Ni-Vanuatu zu gewinnen und einheimische
-Sprachen zu erlernen. Der Ethnologe musste sich auf Beobachtungen sowie
-die Abhandlungen europäischer Autoren verlassen.
-
-

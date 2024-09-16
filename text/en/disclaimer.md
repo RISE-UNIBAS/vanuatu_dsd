@@ -1,3 +1,3 @@
-Disclaimer 
-Visitors should be aware that this website holds historical data created in colonial circumstances, which may include vocabulary that is now considered obsolete, inappropriate, and racist. We are committed to showing respect to Ni-Vanuatu and strive for an ethically responsible and decolonizing approach to managing colonial heritage within the database, ensuring careful stewardship of the collection. We welcome and appreciate any feedback or ideas for this ongoing process. 
-This database includes some of the raw data from the collection. There were inconsistencies, mistakes and gaps in the database as well as in the indexing. To this day, different scientific perspectives are reflected in the entries. The content, geographic classifications and naming are continuously being revised and improved. 
+Visitors should be aware that this website holds historical data created in colonial circumstances, which may include vocabulary and views that today might be considered obsolete, inappropriate, and/or racist.
+
+The collaboration envisaged in the project makes a platform in English indispensable. The research materials held in the Museum der Kulturen Basel and the collection documentation are in German; they will also be made available on the platform in this form.
