@@ -1,6 +1,0 @@
-Alle hier gezeigten Bilder geben implizit oder explizit einen kolonialen
-und strukturell gewalttätigen Kontext wider. Bei dem folgenden Bild ist
-unklar, ob die abgebildete Person ihre Einwilligung gegeben hat. Lesen
-Sie hier mehr über unseren Umgang mit den Fotografi
-
-
