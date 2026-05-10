@@ -1,0 +1,9 @@
+### Ausführlichere Informationen zum Übersetzungsprozess
+
+Wir haben einen systematischen dreistufigen Ansatz entwickelt, um diese umfangreiche deutschsprachige Sammlung auch auf Englisch zugänglich zu machen.
+
+Zunächst haben wir in der **Vorbereitungsphase** mithilfe von Python-Skripten den ursprünglichen JSON-Datensatz mit über 195.000 Datensätzen analysiert und eine Zeichenkodierungsprüfung durchgeführt, um häufige Probleme mit deutschen Umlauten (ä, ö, ü, ß) zu identifizieren und zu beheben, die bei der Datenmigration oft beschädigt werden. Anschliessend haben wir 60 repräsentative deutschsprachige Beschreibungen für Testzwecke extrahiert.
+
+Zweitens haben wir in der **Übersetzungsphase** automatisierte Python-Skripte erstellt, die die JSON-Struktur rekursiv durchlaufen, Textfelder mit deutschen Inhalten identifizieren und diese zur Übersetzung an die DeepL-REST-API senden. Die DeepL-API wurde mit spezifischen Parametern konfiguriert, um die Absatzstruktur und Zeilenumbrüche sowie den neutralen wissenschaftlichen Ton beizubehalten und eine korrekte Behandlung der Sprachpaare sicherzustellen. Entscheidend ist, dass unsere Skripte die Beschreibungsfelder übersetzen, während alle anderen Metadaten – einschließlich Objekt-IDs, geografischer Koordinaten, Sammlernamen und Provenienzangaben – unverändert bleiben.
+
+Drittens führten wir in der **Validierungsphase** blinde A/B-Nutzertests über eine maßgeschneiderte Streamlit-Webanwendung mit SQLite-Datenbank-Backend durch, bei denen 20 menschliche Bewerter die Ergebnisse von DeepL und der Google Cloud Translation API im direkten Vergleich prüften, wobei die Übersetzungsquellen randomisiert und verborgen wurden, um Verzerrungen zu vermeiden. Die Ergebnisse wurden zur statistischen Analyse in einer strukturierten Datenbank gespeichert, und DeepL zeigte eine überlegene Verarbeitung komplexer ethnografischer Terminologie und historischer deutscher Formulierungen.
